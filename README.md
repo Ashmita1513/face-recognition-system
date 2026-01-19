@@ -14,13 +14,6 @@
 
 </div>
 
-## ✨ Features
-
-- **Real-time Recognition** - High accuracy face detection
-- **Easy Registration** - Simple face enrollment system
-- **Event Management** - Tailored for event attendance tracking
-- **Stable Performance** - Robust against lighting and angle variations
-
 ## 🏗️ Project Structure
 
 ```
@@ -90,15 +83,6 @@ POST /api/v1/faces/register    # Register new face
 POST /api/v1/faces/recognize   # Recognize from image
 GET  /api/v1/faces/list        # List registered faces
 ```
-
-## 🤝 Team
-
-| Role | Member | Responsibilities |
-|------|--------|------------------|
-| AI/ML Engineer | Ashmita | Face recognition models |
-| Backend Developer | [Teammate 1] | API & integration |
-| Frontend Developer | [Teammate 2] | User interface |
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details.
@@ -106,5 +90,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 <div align="center">
-Made with ❤️ for Event Management Systems
 </div>
